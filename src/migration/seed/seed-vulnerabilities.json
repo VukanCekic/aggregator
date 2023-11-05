@@ -1,0 +1,812 @@
+[
+  {
+    "companyId": "36a861e0-7ad2-48b0-952e-3b86b2432c65",
+    "vulnerabilityId": "CVE-2023-0",
+    "packageType": "npm",
+    "packageName": "express",
+    "packageVersion": "9.9.1",
+    "description": "Description for express",
+    "severity": "critical"
+  },
+  {
+    "companyId": "36a861e0-7ad2-48b0-952e-3b86b2432c65",
+    "vulnerabilityId": "CVE-2023-1",
+    "packageType": "nuget",
+    "packageName": "express",
+    "packageVersion": "5.6.5",
+    "description": "Description for express",
+    "severity": "critical"
+  },
+  {
+    "companyId": "36a861e0-7ad2-48b0-952e-3b86b2432c65",
+    "vulnerabilityId": "CVE-2023-2",
+    "packageType": "pip",
+    "packageName": "express",
+    "packageVersion": "4.8.1",
+    "description": "Description for express",
+    "severity": "critical"
+  },
+  {
+    "companyId": "36a861e0-7ad2-48b0-952e-3b86b2432c65",
+    "vulnerabilityId": "CVE-2023-3",
+    "packageType": "nuget",
+    "packageName": "express",
+    "packageVersion": "6.3.7",
+    "description": "Description for express",
+    "severity": "critical"
+  },
+  {
+    "companyId": "36a861e0-7ad2-48b0-952e-3b86b2432c65",
+    "vulnerabilityId": "CVE-2023-4",
+    "packageType": "pip",
+    "packageName": "express",
+    "packageVersion": "9.8.4",
+    "description": "Description for express",
+    "severity": "critical"
+  },
+  {
+    "companyId": "36a861e0-7ad2-48b0-952e-3b86b2432c65",
+    "vulnerabilityId": "CVE-2023-5",
+    "packageType": "pip",
+    "packageName": "express",
+    "packageVersion": "6.2.9",
+    "description": "Description for express",
+    "severity": "critical"
+  },
+  {
+    "companyId": "36a861e0-7ad2-48b0-952e-3b86b2432c65",
+    "vulnerabilityId": "CVE-2023-6",
+    "packageType": "npm",
+    "packageName": "express",
+    "packageVersion": "3.6.1",
+    "description": "Description for express",
+    "severity": "critical"
+  },
+  {
+    "companyId": "36a861e0-7ad2-48b0-952e-3b86b2432c65",
+    "vulnerabilityId": "CVE-2023-7",
+    "packageType": "maven",
+    "packageName": "lodash",
+    "packageVersion": "1.1.9",
+    "description": "Description for lodash",
+    "severity": "critical"
+  },
+  {
+    "companyId": "36a861e0-7ad2-48b0-952e-3b86b2432c65",
+    "vulnerabilityId": "CVE-2023-8",
+    "packageType": "nuget",
+    "packageName": "lodash",
+    "packageVersion": "8.9.1",
+    "description": "Description for lodash",
+    "severity": "critical"
+  },
+  {
+    "companyId": "36a861e0-7ad2-48b0-952e-3b86b2432c65",
+    "vulnerabilityId": "CVE-2023-9",
+    "packageType": "maven",
+    "packageName": "react",
+    "packageVersion": "3.8.1",
+    "description": "Description for react",
+    "severity": "critical"
+  },
+  {
+    "companyId": "36a861e0-7ad2-48b0-952e-3b86b2432c65",
+    "vulnerabilityId": "CVE-2023-10",
+    "packageType": "maven",
+    "packageName": "react",
+    "packageVersion": "8.9.6",
+    "description": "Description for react",
+    "severity": "high"
+  },
+  {
+    "companyId": "36a861e0-7ad2-48b0-952e-3b86b2432c65",
+    "vulnerabilityId": "CVE-2023-11",
+    "packageType": "npm",
+    "packageName": "angular",
+    "packageVersion": "4.2.5",
+    "description": "Description for angular",
+    "severity": "high"
+  },
+  {
+    "companyId": "36a861e0-7ad2-48b0-952e-3b86b2432c65",
+    "vulnerabilityId": "CVE-2023-12",
+    "packageType": "npm",
+    "packageName": "angular",
+    "packageVersion": "2.8.8",
+    "description": "Description for angular",
+    "severity": "high"
+  },
+  {
+    "companyId": "36a861e0-7ad2-48b0-952e-3b86b2432c65",
+    "vulnerabilityId": "CVE-2023-13",
+    "packageType": "nuget",
+    "packageName": "angular",
+    "packageVersion": "9.1.3",
+    "description": "Description for angular",
+    "severity": "high"
+  },
+  {
+    "companyId": "36a861e0-7ad2-48b0-952e-3b86b2432c65",
+    "vulnerabilityId": "CVE-2023-14",
+    "packageType": "npm",
+    "packageName": "angular",
+    "packageVersion": "6.9.9",
+    "description": "Description for angular",
+    "severity": "high"
+  },
+  {
+    "companyId": "36a861e0-7ad2-48b0-952e-3b86b2432c65",
+    "vulnerabilityId": "CVE-2023-15",
+    "packageType": "npm",
+    "packageName": "angular",
+    "packageVersion": "1.0.1",
+    "description": "Description for angular",
+    "severity": "high"
+  },
+  {
+    "companyId": "36a861e0-7ad2-48b0-952e-3b86b2432c65",
+    "vulnerabilityId": "CVE-2023-16",
+    "packageType": "maven",
+    "packageName": "angular",
+    "packageVersion": "6.9.6",
+    "description": "Description for angular",
+    "severity": "high"
+  },
+  {
+    "companyId": "36a861e0-7ad2-48b0-952e-3b86b2432c65",
+    "vulnerabilityId": "CVE-2023-17",
+    "packageType": "npm",
+    "packageName": "vue",
+    "packageVersion": "2.5.0",
+    "description": "Description for vue",
+    "severity": "high"
+  },
+  {
+    "companyId": "36a861e0-7ad2-48b0-952e-3b86b2432c65",
+    "vulnerabilityId": "CVE-2023-18",
+    "packageType": "maven",
+    "packageName": "vue",
+    "packageVersion": "6.1.1",
+    "description": "Description for vue",
+    "severity": "high"
+  },
+  {
+    "companyId": "36a861e0-7ad2-48b0-952e-3b86b2432c65",
+    "vulnerabilityId": "CVE-2023-19",
+    "packageType": "maven",
+    "packageName": "bootstrap",
+    "packageVersion": "1.8.2",
+    "description": "Description for bootstrap",
+    "severity": "high"
+  },
+  {
+    "companyId": "36a861e0-7ad2-48b0-952e-3b86b2432c65",
+    "vulnerabilityId": "CVE-2023-20",
+    "packageType": "pip",
+    "packageName": "bootstrap",
+    "packageVersion": "8.5.8",
+    "description": "Description for bootstrap",
+    "severity": "medium"
+  },
+  {
+    "companyId": "36a861e0-7ad2-48b0-952e-3b86b2432c65",
+    "vulnerabilityId": "CVE-2023-21",
+    "packageType": "pip",
+    "packageName": "express",
+    "packageVersion": "8.2.5",
+    "description": "Description for express",
+    "severity": "medium"
+  },
+  {
+    "companyId": "36a861e0-7ad2-48b0-952e-3b86b2432c65",
+    "vulnerabilityId": "CVE-2023-22",
+    "packageType": "maven",
+    "packageName": "lodash",
+    "packageVersion": "6.5.0",
+    "description": "Description for lodash",
+    "severity": "medium"
+  },
+  {
+    "companyId": "36a861e0-7ad2-48b0-952e-3b86b2432c65",
+    "vulnerabilityId": "CVE-2023-23",
+    "packageType": "npm",
+    "packageName": "vue",
+    "packageVersion": "1.7.7",
+    "description": "Description for vue",
+    "severity": "medium"
+  },
+  {
+    "companyId": "36a861e0-7ad2-48b0-952e-3b86b2432c65",
+    "vulnerabilityId": "CVE-2023-24",
+    "packageType": "maven",
+    "packageName": "jquery",
+    "packageVersion": "4.5.9",
+    "description": "Description for jquery",
+    "severity": "medium"
+  },
+  {
+    "companyId": "36a861e0-7ad2-48b0-952e-3b86b2432c65",
+    "vulnerabilityId": "CVE-2023-25",
+    "packageType": "pip",
+    "packageName": "babel",
+    "packageVersion": "6.3.4",
+    "description": "Description for babel",
+    "severity": "low"
+  },
+  {
+    "companyId": "36a861e0-7ad2-48b0-952e-3b86b2432c65",
+    "vulnerabilityId": "CVE-2023-26",
+    "packageType": "nuget",
+    "packageName": "vue",
+    "packageVersion": "7.9.9",
+    "description": "Description for vue",
+    "severity": "low"
+  },
+  {
+    "companyId": "36a861e0-7ad2-48b0-952e-3b86b2432c65",
+    "vulnerabilityId": "CVE-2023-27",
+    "packageType": "pip",
+    "packageName": "jquery",
+    "packageVersion": "5.8.4",
+    "description": "Description for jquery",
+    "severity": "low"
+  },
+  {
+    "companyId": "36a861e0-7ad2-48b0-952e-3b86b2432c65",
+    "vulnerabilityId": "CVE-2023-28",
+    "packageType": "pip",
+    "packageName": "axios",
+    "packageVersion": "9.4.5",
+    "description": "Description for axios",
+    "severity": "low"
+  },
+  {
+    "companyId": "36a861e0-7ad2-48b0-952e-3b86b2432c65",
+    "vulnerabilityId": "CVE-2023-29",
+    "packageType": "pip",
+    "packageName": "babel",
+    "packageVersion": "3.2.7",
+    "description": "Description for babel",
+    "severity": "low"
+  },
+  {
+    "companyId": "d37430b8-05d1-4cf2-a617-c0c496935855",
+    "vulnerabilityId": "CVE-2023-0",
+    "packageType": "npm",
+    "packageName": "express",
+    "packageVersion": "5.6.2",
+    "description": "Description for express",
+    "severity": "critical"
+  },
+  {
+    "companyId": "d37430b8-05d1-4cf2-a617-c0c496935855",
+    "vulnerabilityId": "CVE-2023-1",
+    "packageType": "npm",
+    "packageName": "express",
+    "packageVersion": "9.4.5",
+    "description": "Description for express",
+    "severity": "critical"
+  },
+  {
+    "companyId": "d37430b8-05d1-4cf2-a617-c0c496935855",
+    "vulnerabilityId": "CVE-2023-2",
+    "packageType": "maven",
+    "packageName": "express",
+    "packageVersion": "5.3.0",
+    "description": "Description for express",
+    "severity": "critical"
+  },
+  {
+    "companyId": "d37430b8-05d1-4cf2-a617-c0c496935855",
+    "vulnerabilityId": "CVE-2023-3",
+    "packageType": "pip",
+    "packageName": "express",
+    "packageVersion": "4.9.6",
+    "description": "Description for express",
+    "severity": "critical"
+  },
+  {
+    "companyId": "d37430b8-05d1-4cf2-a617-c0c496935855",
+    "vulnerabilityId": "CVE-2023-4",
+    "packageType": "maven",
+    "packageName": "express",
+    "packageVersion": "4.4.5",
+    "description": "Description for express",
+    "severity": "critical"
+  },
+  {
+    "companyId": "d37430b8-05d1-4cf2-a617-c0c496935855",
+    "vulnerabilityId": "CVE-2023-5",
+    "packageType": "nuget",
+    "packageName": "express",
+    "packageVersion": "5.5.2",
+    "description": "Description for express",
+    "severity": "critical"
+  },
+  {
+    "companyId": "d37430b8-05d1-4cf2-a617-c0c496935855",
+    "vulnerabilityId": "CVE-2023-6",
+    "packageType": "nuget",
+    "packageName": "express",
+    "packageVersion": "2.4.5",
+    "description": "Description for express",
+    "severity": "critical"
+  },
+  {
+    "companyId": "d37430b8-05d1-4cf2-a617-c0c496935855",
+    "vulnerabilityId": "CVE-2023-7",
+    "packageType": "maven",
+    "packageName": "lodash",
+    "packageVersion": "1.3.9",
+    "description": "Description for lodash",
+    "severity": "critical"
+  },
+  {
+    "companyId": "d37430b8-05d1-4cf2-a617-c0c496935855",
+    "vulnerabilityId": "CVE-2023-8",
+    "packageType": "pip",
+    "packageName": "lodash",
+    "packageVersion": "1.5.8",
+    "description": "Description for lodash",
+    "severity": "critical"
+  },
+  {
+    "companyId": "d37430b8-05d1-4cf2-a617-c0c496935855",
+    "vulnerabilityId": "CVE-2023-9",
+    "packageType": "npm",
+    "packageName": "react",
+    "packageVersion": "1.9.5",
+    "description": "Description for react",
+    "severity": "critical"
+  },
+  {
+    "companyId": "d37430b8-05d1-4cf2-a617-c0c496935855",
+    "vulnerabilityId": "CVE-2023-10",
+    "packageType": "pip",
+    "packageName": "react",
+    "packageVersion": "0.6.2",
+    "description": "Description for react",
+    "severity": "high"
+  },
+  {
+    "companyId": "d37430b8-05d1-4cf2-a617-c0c496935855",
+    "vulnerabilityId": "CVE-2023-11",
+    "packageType": "pip",
+    "packageName": "angular",
+    "packageVersion": "7.4.7",
+    "description": "Description for angular",
+    "severity": "high"
+  },
+  {
+    "companyId": "d37430b8-05d1-4cf2-a617-c0c496935855",
+    "vulnerabilityId": "CVE-2023-12",
+    "packageType": "maven",
+    "packageName": "angular",
+    "packageVersion": "3.3.7",
+    "description": "Description for angular",
+    "severity": "high"
+  },
+  {
+    "companyId": "d37430b8-05d1-4cf2-a617-c0c496935855",
+    "vulnerabilityId": "CVE-2023-13",
+    "packageType": "maven",
+    "packageName": "angular",
+    "packageVersion": "6.0.8",
+    "description": "Description for angular",
+    "severity": "high"
+  },
+  {
+    "companyId": "d37430b8-05d1-4cf2-a617-c0c496935855",
+    "vulnerabilityId": "CVE-2023-14",
+    "packageType": "pip",
+    "packageName": "angular",
+    "packageVersion": "8.4.3",
+    "description": "Description for angular",
+    "severity": "high"
+  },
+  {
+    "companyId": "d37430b8-05d1-4cf2-a617-c0c496935855",
+    "vulnerabilityId": "CVE-2023-15",
+    "packageType": "maven",
+    "packageName": "angular",
+    "packageVersion": "3.5.5",
+    "description": "Description for angular",
+    "severity": "high"
+  },
+  {
+    "companyId": "d37430b8-05d1-4cf2-a617-c0c496935855",
+    "vulnerabilityId": "CVE-2023-16",
+    "packageType": "pip",
+    "packageName": "angular",
+    "packageVersion": "5.3.8",
+    "description": "Description for angular",
+    "severity": "high"
+  },
+  {
+    "companyId": "d37430b8-05d1-4cf2-a617-c0c496935855",
+    "vulnerabilityId": "CVE-2023-17",
+    "packageType": "nuget",
+    "packageName": "vue",
+    "packageVersion": "9.3.6",
+    "description": "Description for vue",
+    "severity": "high"
+  },
+  {
+    "companyId": "d37430b8-05d1-4cf2-a617-c0c496935855",
+    "vulnerabilityId": "CVE-2023-18",
+    "packageType": "npm",
+    "packageName": "vue",
+    "packageVersion": "8.2.7",
+    "description": "Description for vue",
+    "severity": "high"
+  },
+  {
+    "companyId": "d37430b8-05d1-4cf2-a617-c0c496935855",
+    "vulnerabilityId": "CVE-2023-19",
+    "packageType": "nuget",
+    "packageName": "bootstrap",
+    "packageVersion": "3.2.8",
+    "description": "Description for bootstrap",
+    "severity": "high"
+  },
+  {
+    "companyId": "d37430b8-05d1-4cf2-a617-c0c496935855",
+    "vulnerabilityId": "CVE-2023-20",
+    "packageType": "maven",
+    "packageName": "bootstrap",
+    "packageVersion": "5.7.1",
+    "description": "Description for bootstrap",
+    "severity": "medium"
+  },
+  {
+    "companyId": "d37430b8-05d1-4cf2-a617-c0c496935855",
+    "vulnerabilityId": "CVE-2023-21",
+    "packageType": "nuget",
+    "packageName": "vue",
+    "packageVersion": "2.0.9",
+    "description": "Description for vue",
+    "severity": "medium"
+  },
+  {
+    "companyId": "d37430b8-05d1-4cf2-a617-c0c496935855",
+    "vulnerabilityId": "CVE-2023-22",
+    "packageType": "maven",
+    "packageName": "lodash",
+    "packageVersion": "8.2.5",
+    "description": "Description for lodash",
+    "severity": "medium"
+  },
+  {
+    "companyId": "d37430b8-05d1-4cf2-a617-c0c496935855",
+    "vulnerabilityId": "CVE-2023-23",
+    "packageType": "pip",
+    "packageName": "axios",
+    "packageVersion": "5.6.7",
+    "description": "Description for axios",
+    "severity": "medium"
+  },
+  {
+    "companyId": "d37430b8-05d1-4cf2-a617-c0c496935855",
+    "vulnerabilityId": "CVE-2023-24",
+    "packageType": "maven",
+    "packageName": "react",
+    "packageVersion": "0.7.3",
+    "description": "Description for react",
+    "severity": "medium"
+  },
+  {
+    "companyId": "d37430b8-05d1-4cf2-a617-c0c496935855",
+    "vulnerabilityId": "CVE-2023-25",
+    "packageType": "nuget",
+    "packageName": "react",
+    "packageVersion": "3.2.3",
+    "description": "Description for react",
+    "severity": "low"
+  },
+  {
+    "companyId": "d37430b8-05d1-4cf2-a617-c0c496935855",
+    "vulnerabilityId": "CVE-2023-26",
+    "packageType": "maven",
+    "packageName": "react",
+    "packageVersion": "1.1.7",
+    "description": "Description for react",
+    "severity": "low"
+  },
+  {
+    "companyId": "d37430b8-05d1-4cf2-a617-c0c496935855",
+    "vulnerabilityId": "CVE-2023-27",
+    "packageType": "maven",
+    "packageName": "express",
+    "packageVersion": "8.2.1",
+    "description": "Description for express",
+    "severity": "low"
+  },
+  {
+    "companyId": "d37430b8-05d1-4cf2-a617-c0c496935855",
+    "vulnerabilityId": "CVE-2023-28",
+    "packageType": "nuget",
+    "packageName": "axios",
+    "packageVersion": "3.9.0",
+    "description": "Description for axios",
+    "severity": "low"
+  },
+  {
+    "companyId": "d37430b8-05d1-4cf2-a617-c0c496935855",
+    "vulnerabilityId": "CVE-2023-29",
+    "packageType": "maven",
+    "packageName": "axios",
+    "packageVersion": "4.8.0",
+    "description": "Description for axios",
+    "severity": "low"
+  },
+  {
+    "companyId": "94d119e5-50c9-4719-8bce-6883cb6f4db0",
+    "vulnerabilityId": "CVE-2023-0",
+    "packageType": "nuget",
+    "packageName": "express",
+    "packageVersion": "5.3.2",
+    "description": "Description for express",
+    "severity": "critical"
+  },
+  {
+    "companyId": "94d119e5-50c9-4719-8bce-6883cb6f4db0",
+    "vulnerabilityId": "CVE-2023-1",
+    "packageType": "pip",
+    "packageName": "express",
+    "packageVersion": "2.5.8",
+    "description": "Description for express",
+    "severity": "critical"
+  },
+  {
+    "companyId": "94d119e5-50c9-4719-8bce-6883cb6f4db0",
+    "vulnerabilityId": "CVE-2023-2",
+    "packageType": "nuget",
+    "packageName": "express",
+    "packageVersion": "3.4.2",
+    "description": "Description for express",
+    "severity": "critical"
+  },
+  {
+    "companyId": "94d119e5-50c9-4719-8bce-6883cb6f4db0",
+    "vulnerabilityId": "CVE-2023-3",
+    "packageType": "nuget",
+    "packageName": "express",
+    "packageVersion": "4.0.3",
+    "description": "Description for express",
+    "severity": "critical"
+  },
+  {
+    "companyId": "94d119e5-50c9-4719-8bce-6883cb6f4db0",
+    "vulnerabilityId": "CVE-2023-4",
+    "packageType": "maven",
+    "packageName": "express",
+    "packageVersion": "8.8.9",
+    "description": "Description for express",
+    "severity": "critical"
+  },
+  {
+    "companyId": "94d119e5-50c9-4719-8bce-6883cb6f4db0",
+    "vulnerabilityId": "CVE-2023-5",
+    "packageType": "pip",
+    "packageName": "express",
+    "packageVersion": "8.7.6",
+    "description": "Description for express",
+    "severity": "critical"
+  },
+  {
+    "companyId": "94d119e5-50c9-4719-8bce-6883cb6f4db0",
+    "vulnerabilityId": "CVE-2023-6",
+    "packageType": "nuget",
+    "packageName": "express",
+    "packageVersion": "4.1.2",
+    "description": "Description for express",
+    "severity": "critical"
+  },
+  {
+    "companyId": "94d119e5-50c9-4719-8bce-6883cb6f4db0",
+    "vulnerabilityId": "CVE-2023-7",
+    "packageType": "nuget",
+    "packageName": "lodash",
+    "packageVersion": "2.5.1",
+    "description": "Description for lodash",
+    "severity": "critical"
+  },
+  {
+    "companyId": "94d119e5-50c9-4719-8bce-6883cb6f4db0",
+    "vulnerabilityId": "CVE-2023-8",
+    "packageType": "maven",
+    "packageName": "lodash",
+    "packageVersion": "0.0.6",
+    "description": "Description for lodash",
+    "severity": "critical"
+  },
+  {
+    "companyId": "94d119e5-50c9-4719-8bce-6883cb6f4db0",
+    "vulnerabilityId": "CVE-2023-9",
+    "packageType": "maven",
+    "packageName": "react",
+    "packageVersion": "1.6.3",
+    "description": "Description for react",
+    "severity": "critical"
+  },
+  {
+    "companyId": "94d119e5-50c9-4719-8bce-6883cb6f4db0",
+    "vulnerabilityId": "CVE-2023-10",
+    "packageType": "maven",
+    "packageName": "react",
+    "packageVersion": "9.5.6",
+    "description": "Description for react",
+    "severity": "high"
+  },
+  {
+    "companyId": "94d119e5-50c9-4719-8bce-6883cb6f4db0",
+    "vulnerabilityId": "CVE-2023-11",
+    "packageType": "pip",
+    "packageName": "angular",
+    "packageVersion": "3.0.6",
+    "description": "Description for angular",
+    "severity": "high"
+  },
+  {
+    "companyId": "94d119e5-50c9-4719-8bce-6883cb6f4db0",
+    "vulnerabilityId": "CVE-2023-12",
+    "packageType": "maven",
+    "packageName": "angular",
+    "packageVersion": "9.2.8",
+    "description": "Description for angular",
+    "severity": "high"
+  },
+  {
+    "companyId": "94d119e5-50c9-4719-8bce-6883cb6f4db0",
+    "vulnerabilityId": "CVE-2023-13",
+    "packageType": "nuget",
+    "packageName": "angular",
+    "packageVersion": "3.4.4",
+    "description": "Description for angular",
+    "severity": "high"
+  },
+  {
+    "companyId": "94d119e5-50c9-4719-8bce-6883cb6f4db0",
+    "vulnerabilityId": "CVE-2023-14",
+    "packageType": "nuget",
+    "packageName": "angular",
+    "packageVersion": "8.9.3",
+    "description": "Description for angular",
+    "severity": "high"
+  },
+  {
+    "companyId": "94d119e5-50c9-4719-8bce-6883cb6f4db0",
+    "vulnerabilityId": "CVE-2023-15",
+    "packageType": "maven",
+    "packageName": "angular",
+    "packageVersion": "5.0.7",
+    "description": "Description for angular",
+    "severity": "high"
+  },
+  {
+    "companyId": "94d119e5-50c9-4719-8bce-6883cb6f4db0",
+    "vulnerabilityId": "CVE-2023-16",
+    "packageType": "nuget",
+    "packageName": "angular",
+    "packageVersion": "9.1.9",
+    "description": "Description for angular",
+    "severity": "high"
+  },
+  {
+    "companyId": "94d119e5-50c9-4719-8bce-6883cb6f4db0",
+    "vulnerabilityId": "CVE-2023-17",
+    "packageType": "npm",
+    "packageName": "vue",
+    "packageVersion": "5.1.3",
+    "description": "Description for vue",
+    "severity": "high"
+  },
+  {
+    "companyId": "94d119e5-50c9-4719-8bce-6883cb6f4db0",
+    "vulnerabilityId": "CVE-2023-18",
+    "packageType": "npm",
+    "packageName": "vue",
+    "packageVersion": "2.7.5",
+    "description": "Description for vue",
+    "severity": "high"
+  },
+  {
+    "companyId": "94d119e5-50c9-4719-8bce-6883cb6f4db0",
+    "vulnerabilityId": "CVE-2023-19",
+    "packageType": "pip",
+    "packageName": "bootstrap",
+    "packageVersion": "8.4.2",
+    "description": "Description for bootstrap",
+    "severity": "high"
+  },
+  {
+    "companyId": "94d119e5-50c9-4719-8bce-6883cb6f4db0",
+    "vulnerabilityId": "CVE-2023-20",
+    "packageType": "pip",
+    "packageName": "bootstrap",
+    "packageVersion": "0.0.1",
+    "description": "Description for bootstrap",
+    "severity": "medium"
+  },
+  {
+    "companyId": "94d119e5-50c9-4719-8bce-6883cb6f4db0",
+    "vulnerabilityId": "CVE-2023-21",
+    "packageType": "nuget",
+    "packageName": "bootstrap",
+    "packageVersion": "7.6.3",
+    "description": "Description for bootstrap",
+    "severity": "medium"
+  },
+  {
+    "companyId": "94d119e5-50c9-4719-8bce-6883cb6f4db0",
+    "vulnerabilityId": "CVE-2023-22",
+    "packageType": "maven",
+    "packageName": "angular",
+    "packageVersion": "8.0.0",
+    "description": "Description for angular",
+    "severity": "medium"
+  },
+  {
+    "companyId": "94d119e5-50c9-4719-8bce-6883cb6f4db0",
+    "vulnerabilityId": "CVE-2023-23",
+    "packageType": "maven",
+    "packageName": "bootstrap",
+    "packageVersion": "2.7.4",
+    "description": "Description for bootstrap",
+    "severity": "medium"
+  },
+  {
+    "companyId": "94d119e5-50c9-4719-8bce-6883cb6f4db0",
+    "vulnerabilityId": "CVE-2023-24",
+    "packageType": "nuget",
+    "packageName": "express",
+    "packageVersion": "0.0.7",
+    "description": "Description for express",
+    "severity": "medium"
+  },
+  {
+    "companyId": "94d119e5-50c9-4719-8bce-6883cb6f4db0",
+    "vulnerabilityId": "CVE-2023-25",
+    "packageType": "npm",
+    "packageName": "lodash",
+    "packageVersion": "8.8.8",
+    "description": "Description for lodash",
+    "severity": "low"
+  },
+  {
+    "companyId": "94d119e5-50c9-4719-8bce-6883cb6f4db0",
+    "vulnerabilityId": "CVE-2023-26",
+    "packageType": "maven",
+    "packageName": "express",
+    "packageVersion": "8.8.8",
+    "description": "Description for express",
+    "severity": "low"
+  },
+  {
+    "companyId": "94d119e5-50c9-4719-8bce-6883cb6f4db0",
+    "vulnerabilityId": "CVE-2023-27",
+    "packageType": "pip",
+    "packageName": "lodash",
+    "packageVersion": "5.4.4",
+    "description": "Description for lodash",
+    "severity": "low"
+  },
+  {
+    "companyId": "94d119e5-50c9-4719-8bce-6883cb6f4db0",
+    "vulnerabilityId": "CVE-2023-28",
+    "packageType": "maven",
+    "packageName": "lodash",
+    "packageVersion": "2.5.5",
+    "description": "Description for lodash",
+    "severity": "low"
+  },
+  {
+    "companyId": "94d119e5-50c9-4719-8bce-6883cb6f4db0",
+    "vulnerabilityId": "CVE-2023-29",
+    "packageType": "pip",
+    "packageName": "express",
+    "packageVersion": "7.5.5",
+    "description": "Description for express",
+    "severity": "low"
+  }
+]

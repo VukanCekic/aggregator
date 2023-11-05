@@ -1,0 +1,26 @@
+[
+  {
+    "companyId": "36a861e0-7ad2-48b0-952e-3b86b2432c65",
+    "userId": "beda2c3e-4419-4a09-9902-2c78db26a752",
+    "email": "user1@companyA.com",
+    "fullName": "User 1"
+  },
+  {
+    "companyId": "36a861e0-7ad2-48b0-952e-3b86b2432c65",
+    "userId": "16eb19c3-22c5-4a6e-b3e5-5a13c2cf87d9",
+    "email": "user2@companyA.com",
+    "fullName": "User 2"
+  },
+  {
+    "companyId": "d37430b8-05d1-4cf2-a617-c0c496935855",
+    "userId": "f7b3159d-7a68-4c0b-8de1-132c58d49c6c",
+    "email": "user3@companyB.com",
+    "fullName": "User 3"
+  },
+  {
+    "companyId": "94d119e5-50c9-4719-8bce-6883cb6f4db0",
+    "userId": "60b39cf2-aa9a-4b99-8237-bc449a1096c0",
+    "email": "user4@companyC.com",
+    "fullName": "User 4"
+  }
+]
